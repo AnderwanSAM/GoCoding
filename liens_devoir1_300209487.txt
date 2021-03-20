@@ -1,0 +1,12 @@
+Andie SAMADOULOUGOU 
+300 209 487 
+CSI 2520 
+DEVOIR 1 
+
+Question 1 :https://play.golang.org/p/PIXKszCD-eU
+
+
+Question 2 : https://play.golang.org/p/JusHg-Tpo-C
+
+
+Question 3 : https://play.golang.org/p/ESlC-bnbMxu
